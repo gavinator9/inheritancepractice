@@ -1,0 +1,15 @@
+C:\Users\Leslie\source\repos\Elliott_RoboDialersolution\Elliott_RoboDialer\bin\Debug\net6.0\Elliott_RoboDialer.exe
+C:\Users\Leslie\source\repos\Elliott_RoboDialersolution\Elliott_RoboDialer\bin\Debug\net6.0\Elliott_RoboDialer.deps.json
+C:\Users\Leslie\source\repos\Elliott_RoboDialersolution\Elliott_RoboDialer\bin\Debug\net6.0\Elliott_RoboDialer.runtimeconfig.json
+C:\Users\Leslie\source\repos\Elliott_RoboDialersolution\Elliott_RoboDialer\bin\Debug\net6.0\Elliott_RoboDialer.dll
+C:\Users\Leslie\source\repos\Elliott_RoboDialersolution\Elliott_RoboDialer\bin\Debug\net6.0\Elliott_RoboDialer.pdb
+C:\Users\Leslie\source\repos\Elliott_RoboDialersolution\Elliott_RoboDialer\obj\Debug\net6.0\Elliott_RoboDialer.csproj.AssemblyReference.cache
+C:\Users\Leslie\source\repos\Elliott_RoboDialersolution\Elliott_RoboDialer\obj\Debug\net6.0\Elliott_RoboDialer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leslie\source\repos\Elliott_RoboDialersolution\Elliott_RoboDialer\obj\Debug\net6.0\Elliott_RoboDialer.AssemblyInfoInputs.cache
+C:\Users\Leslie\source\repos\Elliott_RoboDialersolution\Elliott_RoboDialer\obj\Debug\net6.0\Elliott_RoboDialer.AssemblyInfo.cs
+C:\Users\Leslie\source\repos\Elliott_RoboDialersolution\Elliott_RoboDialer\obj\Debug\net6.0\Elliott_RoboDialer.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\source\repos\Elliott_RoboDialersolution\Elliott_RoboDialer\obj\Debug\net6.0\Elliott_RoboDialer.dll
+C:\Users\Leslie\source\repos\Elliott_RoboDialersolution\Elliott_RoboDialer\obj\Debug\net6.0\refint\Elliott_RoboDialer.dll
+C:\Users\Leslie\source\repos\Elliott_RoboDialersolution\Elliott_RoboDialer\obj\Debug\net6.0\Elliott_RoboDialer.pdb
+C:\Users\Leslie\source\repos\Elliott_RoboDialersolution\Elliott_RoboDialer\obj\Debug\net6.0\Elliott_RoboDialer.genruntimeconfig.cache
+C:\Users\Leslie\source\repos\Elliott_RoboDialersolution\Elliott_RoboDialer\obj\Debug\net6.0\ref\Elliott_RoboDialer.dll
